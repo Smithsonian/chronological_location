@@ -1,0 +1,4 @@
+name: Chronological Location
+type: module
+description: 'Adds the Chronological Location data type to the system.'
+core: 8.x
