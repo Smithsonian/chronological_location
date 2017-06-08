@@ -15,6 +15,7 @@ use Drupal\Core\Field\Plugin\Field\FieldType\DateTimeItem;
  *   label = @Translation("Chronological Location"),
  *   description = @Translation("An multiple attribute field representing the location of something within a time interval."),
  *   default_widget = "chronological_location_widget",
+ *   default_formatter = "chronological_location_formatter",
  * )
  */
 class ChronologicalLocationFieldType extends FieldItemBase {
